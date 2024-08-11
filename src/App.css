@@ -1,0 +1,7 @@
+.my-color {
+     color: rgb(70, 146, 231) !important;
+}
+.my-bg-color {
+     background-color: rgb(70, 146, 231) !important;
+     color: white !important;
+}

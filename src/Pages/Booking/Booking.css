@@ -1,0 +1,27 @@
+.booking-form input, .booking-form select, .booking-form textarea {
+     width: 100%;
+     padding: 10px 15px;
+     font-size: 17px;
+     margin-bottom: 8px;
+     border-radius: 5px;
+     border: 1px solid #ddd;
+ }
+ select.select-adult {
+     width: 48%;
+ }
+ select.select-child {
+     width: 48%;
+     margin-left: 4%;
+ }
+ input.booking-submit {
+     background-color: rebeccapurple;
+     color: white;
+ }
+.tour-map iframe {
+    transform: translateY(-55px);
+}
+
+.tour-map {
+    pointer-events: none;
+    overflow: hidden;
+}

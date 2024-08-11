@@ -1,0 +1,14 @@
+.user-container {
+     max-width: 500px;
+     margin: 0 auto;
+     border: 1px solid #ddd;
+     padding: 30px;
+ }
+ .user-container img {
+     margin: 0 auto;
+     display: block;
+     border-radius: 100%;
+     padding-bottom: 20
+ px
+ ;
+ }

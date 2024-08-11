@@ -1,0 +1,37 @@
+[{
+  "tour_name": "Glacier Walk Combo",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-2.jpg",
+  "price": "1610.00",
+  "rating": "4",
+  "duration": "5 Days / 6 Nights"
+}, {
+  "tour_name": "The Splendor Of Manali",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-1.jpg",
+  "price": "470.00",
+  "rating": "4",
+  "duration": "5 Days / 6 Nights"
+}, {
+  "tour_name": "Great Britain Travel",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-3.jpg",
+  "price": "820.00",
+  "rating": "5",
+  "duration": "5 Days / 6 Nights"
+}, {
+  "tour_name": "Beauty Of Tajmahal",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-4.jpg",
+  "price": "1170.00",
+  "rating": "3.5",
+  "duration": "5 Days / 6 Nights"
+}, {
+  "tour_name": "Venice Tour - Italy",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-5.jpg",
+  "price": "980.00",
+  "rating": "5",
+  "duration": "3 Days / 4 Nights"
+}, {
+  "tour_name": "Super Maldives Trip",
+  "imgURL": "http://themescare.com/demos/peulis-v6/assets/img/popular-6.jpg",
+  "price": "1020.00",
+  "rating": "4",
+  "duration": "5 Days / 6 Nights"
+}]

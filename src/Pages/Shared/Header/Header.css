@@ -1,0 +1,27 @@
+img.logo {
+     max-width: 200px;
+}
+.nav-user .btn-primary {
+     background-color: transparent !important;
+     border: none;
+     outline: none !important;
+     box-shadow: none !important;
+ }
+ .nav-user a {
+      color:  #212529;
+      text-decoration: none;
+ }
+ .dropdown-item.active, .dropdown-item:active {
+     color: black !important;
+     background-color: white !important;
+ }
+ .navbar.bg-dark {
+     background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(../../../Images/footerbanner.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center bottom;
+     background-color: #1e2124!important;
+     position: sticky;
+     top: 0;
+     z-index: 1000;
+ }

@@ -1,0 +1,23 @@
+footer {
+     background: linear-gradient(rgba(0, 0, 0, 0.815), rgba(0, 0, 0, 0.7)), url(../../../Images/footerbanner.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center top;
+     color: #ddd;
+}
+.footer-bottom {
+     padding: 25px 0;
+     margin: 0;
+     border-top: 1px solid #ddd;
+ }
+ .footer-logo {
+      max-width: 200px;
+ }
+ .footer-body a {
+     display: block;
+     text-decoration: none;
+     color:rgba(255, 255, 255, 0.61);
+ }
+ .footer-body a:hover {
+      color: white;
+ }

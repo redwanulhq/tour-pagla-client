@@ -1,0 +1,22 @@
+.add-tour-form-container {
+     max-width: 550px;
+     margin: 0 auto;
+     padding: 20px;
+ }
+ 
+ .add-tour-form-container input, select {
+     width: 100%;
+     padding: 10px 20px;
+     margin-bottom: 10px;
+     font-size: 17px;
+     border: 1px solid #cfcfcf;
+     border-radius: 6px;
+ }
+ 
+ .add-tour-form-container {
+     max-width: 550px;
+     margin: 0 auto;
+     padding: 20px;
+     box-shadow: 0 0 10px #adadad;
+     border-radius: 6px;
+ }
