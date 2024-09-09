@@ -1,7 +1,7 @@
 ## TOUR PAGLA 
 This web app is one of my assignment on a Tourism Agency. This is my first ever full-stack websit. On this website I have used `React`, `firebase`, `react router`, `node`, `express`, `mongodb` etc.
 
-Here is the live site link: https://react-tour-pagla.web.app
+Here is the live site link: https://rt-tour-pagla.web.app
 
 On this Website :
 * You can access only homepage without login yourself
